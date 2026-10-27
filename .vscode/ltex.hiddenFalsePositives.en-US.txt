@@ -1,0 +1,2 @@
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QIf we follow our current design, this will be done using only OR, XOR, and AND gates.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWhile the mini-circuit for each subsequent output is unique, they all share the same general design of (1) adding all the corresponding digits using a mix of adders, (2) determining what the OutX should be, and (3) what to carry over.\\E$"}
